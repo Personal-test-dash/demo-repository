@@ -8,3 +8,4 @@ Edit marker: case4-edit-2026-08-17.
 Case 10: renamed AND edited in one commit.
 
 Edit 1 (commit 1 of 3).
+Edit 2 (commit 3 of 3).
