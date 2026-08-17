@@ -1,5 +1,6 @@
-# Sync Test Case 1
+# Sync Test Case 1 (EDITED)
 
-New file added at repo root to test incremental ADD of a file in an existing folder.
+This file was MODIFIED for Case 4: content edit must produce a new blob SHA,
+update the SAME record (same external id), bump the version, and reindex.
 
-Created by automated connector test on 2026-08-17.
+Edit marker: case4-edit-2026-08-17.
